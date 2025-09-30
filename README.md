@@ -5,7 +5,7 @@ Note: This code assumes access to the de-identified dataset (not included in thi
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/mpn-fibrosis-ml-pipeline.git
+git clone https://github.com/zhuanghui1996/JAK2V617F-Mutation-MF-Risk-Prediction-Based-on-Machine-LearningAnalysis.git
 cd mpn-fibrosis-ml-pipeline
 Install required R packages (run in R console):
 install.packages(c("tidyverse", "caret", "glmnet", "Boruta", "pROC", "shapviz", "randomForest", "xgboost", "lightgbm", "catboost", "e1071", "nnet", "gbm", "adabag", "tableone", "DynNom"))
